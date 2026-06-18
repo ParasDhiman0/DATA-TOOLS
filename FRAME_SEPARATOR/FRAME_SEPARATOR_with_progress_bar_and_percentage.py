@@ -3,8 +3,8 @@ import os
 from tqdm import tqdm
 
 # ==========================
-INPUT_FOLDER = r"D:\DATA TOOLS\FRAME_SEPARATOR\Input data"
-OUTPUT_FOLDER = r"D:\DATA TOOLS\FRAME_SEPARATOR\Output data"
+INPUT_FOLDER = r"D:\"
+OUTPUT_FOLDER = r"D:\"
 SAVE_FPS = 15
 # ==========================
 
