@@ -1,6 +1,7 @@
 import cv2
 import os
 from tqdm import tqdm
+# pip install tqdm opencv-python
 
 # ==========================
 INPUT_FOLDER = r"D:\"
