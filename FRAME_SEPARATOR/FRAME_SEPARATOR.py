@@ -4,8 +4,8 @@ import os
 # ==========================
 # SETTINGS
 # ==========================
-INPUT_FOLDER = r"D:\DATA TOOLS\FRAME_SEPARATOR\Input data"
-OUTPUT_FOLDER = r"D:\DATA TOOLS\FRAME_SEPARATOR\Output data"
+INPUT_FOLDER = r"D:\"
+OUTPUT_FOLDER = r"D:\"
 
 # Images to save per second
 SAVE_FPS = 999
