@@ -4,8 +4,8 @@ from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor
 
 # ==========================
-INPUT_FOLDER = r"D:\DATA TOOLS\FRAME_SEPARATOR\Input data"
-OUTPUT_FOLDER = r"D:\DATA TOOLS\FRAME_SEPARATOR\Output data"
+INPUT_FOLDER = r"D:\"
+OUTPUT_FOLDER = r"D:\"
 SAVE_FPS = 2
 MAX_WORKERS = 8 # Number of concurrent threads
 # ==========================
